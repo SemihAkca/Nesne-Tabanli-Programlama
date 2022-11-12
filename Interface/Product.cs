@@ -28,7 +28,6 @@ namespace Interface
             UnitInStock = unitInStock;
         }
 
-        // Expression bodied property
         public int ProductId { get => _productId; set => _productId = value; }
         public string ProductName { get => _productName; set => _productName = value; }
         public decimal UnitPrice { get => _unitPrice; set => _unitPrice = value; }
