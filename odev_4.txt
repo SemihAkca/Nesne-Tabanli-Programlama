@@ -1,0 +1,36 @@
+MYAZ203
+Nesne Tabanlý Programlama Lab.
+Hafta 04 Ödev
+
+1. C# dilinde kalýtým farklý türlerde uygulanabilmektedir. Ancak Multiple
+inheritance tipinde kalýtým desteði C# yoktur.
+2. Bir sýnýftan kalýtým ile devir alma iþlemi için :
+kullanýlmaktadýr.
+operatörü
+3. Bir üyenin alt sýnýflarda geçersiz kýlýnabilmesini saðlamak üzere virtual
+anahtar kelimesi kullanýlýr.
+4. Bir üyenin alt sýnýflarda geçersiz kýlýnmasýný engellemek üzere protected
+anahtar kelimesi kullanýlýr.
+5. Bir üyenin geçersiz kýlýnmasýný saðlamak üzere override anahtar
+sözcüðü kullanýlýr.
+6. static metotlar ve fileds üyeleri virtual anahtar kelimesi ile
+7. deklare edilemezler.
+8. Bir sýnýftan devir alýnarak tanýmlanmýþ olan sýnýf; bir baþka sýnýf
+tarafýndan devir alýnýyor ise Multi-Level kalýtým türünün
+uygulandýðý söylenebilir.
+9. Temel sýnýfta yer alan bir metot; devir alýnan sýnýfta gizlenmek
+isteniyor ise new anahtar kelimesi kullanýlmalýdýr.
+10. Türetilmiþ bir sýnýfta temel sýnýfta yer alan bir metot çaðrýlacak ise public
+anahtar kelimesi kullanýlmalýdýr.
+11. Türetilmiþ bir sýnýftan temel sýnýfýn yapýlandýrýcý metoduna parametre
+geçilecek ise base anahtar kelimesi kullanýlmalýdýr.
+12. static sýnýflardan new anahtar sözcüðü ile nesne üretmek mümkün
+deðildir.
+13. Gövdesi olmayan ve bir sýnýf içerisine yazýlan metotlar public metot
+olmalýdýr.
+14. Temel sýnýfta abstract olarak tanýmlanmýþ olan bir metot; mutlaka
+devir alýnan sýnýfta geçersiz kýlýnmalýdýr.
+15. Bir sýnýfýn kalýtým ile devir alýnmasýný engellemek için sealed
+anahtar kelimesi kullanýlýr.
+16. Sýnýf içinde yapýlandýrýcý metotlar arasýnda parametre geçiþi saðlanacak
+ise base anahtar sözcüðü kullanýlmalýdýr.
