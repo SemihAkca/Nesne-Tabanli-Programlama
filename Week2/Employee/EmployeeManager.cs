@@ -14,7 +14,15 @@ namespace Hafta2_odev
         {
             employees.Add(employee);    
         }
-        
+
+        public void GetAll()
+        {
+            employees.Sort();
+            foreach (var item in employees)
+            {
+                Console.WriteLine(item);
+            }
+        }
         public void Remove(int id)
         {
             int count = employees.Count;

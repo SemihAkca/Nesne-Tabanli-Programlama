@@ -44,8 +44,4 @@ namespace Inheritance_lab
         }
     }
 
-    
-
-
-
 }
